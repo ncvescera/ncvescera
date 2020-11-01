@@ -1,5 +1,6 @@
-### :palm_tree: Like an autistic with a tree :palm_tree:
+## Monkey Typer since 2013 :gorilla:
 
+![Monkey Typer](./monkey.gif)
 <!--
 **ncvescera/ncvescera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
