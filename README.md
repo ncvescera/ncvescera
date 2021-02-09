@@ -11,6 +11,6 @@
 
 ## Achievements
 
-Achieved maximum degree in python programming :snake:, certified by heir of **Alfredo Navarra**: Mirco Tracolli
+Achieved maximum degree in python programming :snake:, certified by heir of **Alfredo Navarra**: [Mirco Tracolli](https://github.com/MircoT)
 
 ![certificacato](./imgs/python_Nicolo%20Vescera.png)
