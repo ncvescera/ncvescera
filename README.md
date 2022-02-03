@@ -16,8 +16,17 @@ My favourite programming languages are:
 
 <h4 align="center"> Monkey Tiper since 2013 🦧</h4>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncvescera&theme=github_dark" width="100%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical" width="30%"/>
-<br><img src="https://activity-graph.herokuapp.com/graph?username=ncvescera&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+<a>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncvescera&theme=github_dark"/> 
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ncvescera&show_icons=true&theme=radical" />
+</a>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=ncvescera&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 
 <details>
   <summary><b>HackerMan</b></summary>
