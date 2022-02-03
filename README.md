@@ -17,7 +17,7 @@ My favourite programming languages are:
 <h4 align="center"> Monkey Tiper since 2013 🦧</h4>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical&layout=compact" width="400"/> <img src="https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical&layout=compact"/> <img src="https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ncvescera&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 
