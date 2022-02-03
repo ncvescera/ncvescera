@@ -19,8 +19,9 @@ My favourite programming languages are:
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical&layout=compact" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical"/>
-</p>
 <img src="https://activity-graph.herokuapp.com/graph?username=ncvescera&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+
+</p>
 
 
 <details>
