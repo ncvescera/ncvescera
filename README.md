@@ -14,7 +14,44 @@ My favourite programming languages are:
 - **Kotlin** 🤓
 - **Java** ☕
 
-<h4 align="center"> Monkey Tiper since 2013 🦧</h4>
+### Tools, frameworks and languages I know:
+
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="30px" height="30px"/></a>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="30px" height="30px"/></a>
+
+
+
+<h4 align="center"> Monkey Typer since 2013 🦧</h4>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical&layout=compact" />
