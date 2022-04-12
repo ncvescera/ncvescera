@@ -49,7 +49,12 @@ My favourite programming languages are:
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="30px" height="30px"/></a>
 
+<hr>
 
+<a href="https://ncvescera.github.io/">
+<h3 align="center"><img src="./imgs/arrow.webp" width="60px" height="20px">Check my new <img src="./imgs/fire.gif" width="60px" height="60px"><b><i>Devfolio</i></b></h3></a>
+
+<hr>
 
 <h4 align="center"> Monkey Typer since 2013 🦧</h4>
 
