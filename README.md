@@ -1,11 +1,14 @@
+![header](./imgs/header.png)
 
-<h1 align="center"> 
+<!--<h1 align="center"> 
   Monke say hello ! <img src="https://media.giphy.com/media/hSjaxxHv4zs46c7kCG/giphy.gif" width="70"/>
-</h1>
+</h1>-->
+## About this Monke <img src="https://media.giphy.com/media/hSjaxxHv4zs46c7kCG/giphy.gif" width="40"/>
+
 <img align="right" src="./imgs/monkey.gif" />
 
-I am just a retarded monkey who loves type code 🦍! <br>
-I am a Machine Learning student in DMI - UniPg 🚀. Linux user (btw I use Arch 🖥️) focused on open source software 🔓.
+I am just a retarded monkey who loves type code 🦍! Orangutan lover 🦧.<br>
+I am a Machine Learning student in DMI - UniPg 🚀. Linux user (_I use Arch btw 🖥️_) focused on open source software 🔓.
 I love develop cli desktop utilities and Android Apps 🤖 and this monke hates web developing, _I am not enough retarded for this 🥖_.
 
 My favourite programming languages are:
@@ -58,6 +61,7 @@ My favourite programming languages are:
 
 <h4 align="center"> Monkey Typer since 2013 🦧</h4>
 
+## Some Stats 📈
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical&layout=compact" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical"/>
