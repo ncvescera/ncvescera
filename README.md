@@ -59,8 +59,6 @@ My favourite programming languages are:
 
 <hr>
 
-<h4 align="center"> Monkey Typer since 2013 🦧</h4>
-
 ## Some Stats 📈
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncvescera&theme=radical&layout=compact" />
@@ -90,9 +88,12 @@ My favourite programming languages are:
 ![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncvescera&theme=github_dark) ![stat](https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical)
 ![graph](https://activity-graph.herokuapp.com/graph?username=ncvescera&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&)
 -->
-## Achievements
+## Achievements 🏆
 
 <details>
   <summary>Achieved maximum degree in python programming :snake:, certified by heir of <b>Alfredo Navarra</b>: <a href="https://github.com/MircoT">Mirco Tracolli</a></summary>
   <img src="./imgs/python_Nicolo%20Vescera.png"/>
 </details>
+
+<br><br>
+<h4 align="center"> Monkey Typer since 2013 🦧</h4>
