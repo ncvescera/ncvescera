@@ -3,6 +3,7 @@
 <!--<h1 align="center"> 
   Monke say hello ! <img src="https://media.giphy.com/media/hSjaxxHv4zs46c7kCG/giphy.gif" width="70"/>
 </h1>-->
+
 ## About this Monke <img src="https://media.giphy.com/media/hSjaxxHv4zs46c7kCG/giphy.gif" width="40"/>
 
 <img align="right" src="./imgs/monkey.gif" />
@@ -17,7 +18,9 @@ My favourite programming languages are:
 - **Kotlin** 🤓
 - **Java** ☕
 
-### Tools, frameworks and languages I know:
+<br>
+
+This monke know and can use the following languages & tools 🍞:
 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="30px" height="30px"/></a>
