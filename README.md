@@ -54,6 +54,10 @@ My favourite programming languages are:
 
 ## Devfolio
 
+<a href="https://ncvescera.github.io/">
+<img src="./imgs/devfolio.gif"/>
+</a>
+
 [![devfolio](./imgs/devfolio.gif)](https://ncvescera.github.io/)
 
 
