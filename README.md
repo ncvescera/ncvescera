@@ -52,12 +52,15 @@ My favourite programming languages are:
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="30px" height="30px"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="30px" height="30px"/></a>
 
+## Devfolio
+
+[![devfolio](./imgs/devfolio.gif)](https://ncvescera.github.io/)
+
+<!--
 <hr>
-
-
 <h3 align="center"><a href="https://ncvescera.github.io/"><img src="./imgs/arrow.webp" width="60px" height="20px">Check my new <img src="./imgs/fire.gif" width="40px" height="40px"><b><i>Devfolio</i></b></a></h3>
-
 <hr>
+-->
 
 ## Some Stats 📈
 <p align="center">
