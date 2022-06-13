@@ -67,11 +67,12 @@ My favourite programming languages are:
 
 </p>
 
-
+<!--
 <details>
   <summary><b>HackerMan</b></summary>
   <img src="./imgs/hackerman.gif"/>
 </details>
+-->
 
 <!--
 ## Monkey Typer since 2013 :gorilla:
