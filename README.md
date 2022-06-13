@@ -54,7 +54,10 @@ My favourite programming languages are:
 
 ## Devfolio
 
-[![devfolio](./imgs/devfolio.gif)](https://ncvescera.github.io/)
+[![devfolio][image]][hyperlink]
+
+[hyperlink]: https://ncvescera.github.io/
+[image]: ./imgs/devfolio.gif
 
 
 ## Some Stats 📈
