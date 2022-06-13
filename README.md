@@ -1,4 +1,4 @@
-![header](./imgs/header.png)
+![header](./imgs/header.gif)
 
 <!--<h1 align="center"> 
   Monke say hello ! <img src="https://media.giphy.com/media/hSjaxxHv4zs46c7kCG/giphy.gif" width="70"/>
