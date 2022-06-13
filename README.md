@@ -53,7 +53,7 @@ My favourite programming languages are:
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="30px" height="30px"/></a>
 
 ## Devfolio
-[![devfolio](./imgs/devfolio.gif)](https://ncvescera.github.io/)
+[[![devfolio](./imgs/devfolio.gif)]](https://ncvescera.github.io/)
 [![devfolio](./imgs/devfolio.gif)](https://ncvescera.github.io/)
 
 
